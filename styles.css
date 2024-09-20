@@ -1,0 +1,56 @@
+.H-1 {
+    color:black
+}
+.T-25-1 {
+	color: red;
+}
+.T-26-1 {
+    color:green
+}
+.T-26-2 {
+    color: blue
+}
+.T-26-3 {
+    color: red
+}
+.T-26-4 {
+    color: orange
+}
+.T-27-1{
+    color:#FF7373
+}
+.T-27-2{
+    color:rgb(143, 255, 45)
+}
+.T-28-1{
+    width: 300px;
+}
+.T-28-2{
+    width: 400px;
+    height: 300px;
+}
+.T-34-1 {
+	text-align: right;
+}
+.T-34-2 {
+	text-align: center;
+    width: 300px;
+}
+.T-34-3 {
+    width: 500px;
+}
+.T-34-4 {
+	text-align: left;
+}
+.T-34-5 {
+	text-align: center;
+}
+.T-34-6 {
+    text-align: justify;
+    width: 300px;
+}
+.T-34-8 {
+    text-align: center;
+    width: 300px;
+}
+
