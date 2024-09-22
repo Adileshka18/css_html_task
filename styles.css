@@ -53,4 +53,74 @@
     text-align: center;
     width: 300px;
 }
-
+.T-35-1 {
+    width: 500px;
+    height: 300px;
+}
+.T-35-2 {
+    font-weight: bold;
+    text-align: center;
+}
+.T-35-3 {
+    font-weight: normal;
+}
+.T-36-1 {
+    font-style: italic;
+}
+.T-37-1 {
+    font-size: 50px;
+    text-align: center;
+}
+.T-37-2 {
+    font-size: 40px;
+    font-weight: normal;
+}
+.T-37-3 {
+    font-size: 30px;
+}
+.T-38-1 {font-family: Arial;}
+.T-38-2 {font-family: Georgia;}
+.T-38-3 {font-family: Verdana;}
+.T-38-4 {font-family: "Trebuchet MS";}
+.T-38-5 {font-family: Impact;}
+.T-38-6 {font-family: "Arial Black";}
+.T-38-7 {font-family: "Comic Sans MS";}
+.T-38-8 {font-family: "Courier New";}
+.T-39-1 {
+    font-size: 30px;
+	line-height: 45px;
+}
+.T-40-1 {
+    font-size: 30px; line-height: 1.5;
+}
+.T-41-1 {
+    font: 13px/20px "Times New Roman";
+}
+.T-41-2 {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+}
+.T-41-3 {
+    font: bold italic 40px/60px Arial;
+    text-indent: 50px;
+}
+.T-42-1 {
+    text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+.T-44-1 {
+    text-decoration: underline;
+}
+.T-45-1 {
+    text-decoration: overline;
+    color: red;
+}
+.T-46-1 {
+    text-decoration: line-through;
+    color: green;
+}
+a {
+	text-decoration: none;
+    color: red}
