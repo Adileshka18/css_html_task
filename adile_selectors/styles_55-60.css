@@ -1,0 +1,59 @@
+.odd {
+    color: red;
+}
+.eve {
+    color: green;
+}
+.eee {
+    color: red;
+}
+.xxx {
+    font-size: 30px;
+}
+.block-red {
+    color: red;
+}
+.block-green {
+    color: green;
+}
+.block-blue {
+    color: blue;
+}
+/* 58-1 */
+.eeee, .zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+/*58-2*/
+
+.eeeee, .zzzz, .ggg {
+    text-align: center;
+    font-family: Arial;
+}
+
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
+}
+
+.ggg {
+    font-size: 35px;
+} 
+
+/*59-1*/
+
+h2.header {
+    font-size: 40px;
+}
+
+h3.header {
+    font-size: 30px;
+} 
+
+/*60-1*/
+.aaa i {
+    color: red
+}
