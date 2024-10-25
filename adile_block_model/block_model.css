@@ -345,3 +345,45 @@
     height: 60px;
     border: 1px solid green;
 }
+/*Задание 171*/
+.parent171 {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child171 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*Задание 172*/
+.parent172 {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child72 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*Задание 173*/
+.parent173 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child173 {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
