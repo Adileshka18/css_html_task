@@ -1,2 +1,11 @@
 # css_html_task
 - [adile_CSS](./adile_CSS/)
+- [adile_HTML](./adile_HTML/)
+- [adile_block_model](./adile_block_model/)
+- [adile_decorations](./adile_decorations/)
+- [adile_flex](./adile_flex/)
+- [adile_float](./adile_float/)
+- [adile_grids](./adile_grids/)
+- [adile_makets](./adile_makets/)
+- [adile_positioning](./adile_positioning/)
+- [adile_selectors](./adile_selectors/)
