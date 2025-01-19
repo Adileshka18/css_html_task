@@ -1,4 +1,4 @@
-# css_html_task
+Репозиторий для заданий из code.mu (учебника HTML и CSS) по предмету АиП 3 семестр.
 - [adile_CSS](./adile_CSS/)
 - [adile_HTML](./adile_HTML/)
 - [adile_block_model](./adile_block_model/)
